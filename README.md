@@ -35,7 +35,7 @@ Installation process, e.g. step by step instructions that I can run the project 
 ### Project state: 
 100%
 
-### Limitations: None
+### Limitations:
 * Compile time error when Inputfield is empty
 * Reset Button not working
 
