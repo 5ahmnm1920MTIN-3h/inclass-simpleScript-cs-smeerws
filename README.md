@@ -2,8 +2,7 @@
 
 ### Project description: 
 This Unity 2D project serves to practice C# and to repeat C# Concepts and basics. 
-
-The game includes 2 branches.
+When pressing the subsraction button, the program takes the text from two InputFields (a and b), parse them to int, and substracts b from a.
 
 ### Development platform: 
 Windows 10; 
@@ -37,9 +36,11 @@ Installation process, e.g. step by step instructions that I can run the project 
 
 ### Limitations: None
 * Compile time error when Inputfield is empty
+* Reset Button not working
 
 ### Lessons Learned: 
 * GUI: Screenindependent Settings (Canvas); using Canvas, InputField, Text, Button 
 * Write a simple Script: using variables, methods, take input from GameObjects (e.g., Inputfield), manipulate GameObject components (e.g. Text)
+* Attach script to GameObject
 
 Copyright by smeerws
