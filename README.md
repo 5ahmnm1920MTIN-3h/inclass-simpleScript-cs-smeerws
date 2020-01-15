@@ -1,7 +1,7 @@
 # inclass-simpleScript-cs-smeerws
 
 ### Project description: 
-This Unity 2D project serves to practice C# and to repeat C# Concepts and basics. 
+This Unity 2D project serves to practice C# and to repeat C# basics. 
 When pressing the subsraction button, the program takes the text from two InputFields (a and b), parse them to int, and substracts b from a.
 
 ### Development platform: 
@@ -13,12 +13,13 @@ Scripting Runtime Version: 4.X;
 ### Target platform: 
 WebGL 960x600
 
-### Visuals: 
-
-## GUI - Screenshot 
+### GUI - Screenshot 
 <div>
 <img src = "./Screenshots/sc-simpleSubNumbers.jpg" width = "500">
 </div>
+
+### Test it: 
+WebGL on GitHub Pages: https://5ahmnm1920mtin-3h.github.io/inclass-simpleScript-cs-smeerws/ 
 
 ### Necessary setup/execution steps: 
 Installation process, e.g. step by step instructions that I can run the project after cloning it
